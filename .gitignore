@@ -1,0 +1,4 @@
+data/
+.venv/
+notebook/wandb/
+output/
